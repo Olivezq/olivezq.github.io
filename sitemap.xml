@@ -146,27 +146,6 @@
 
   
   <url>
-    <loc>https://olivezq.github.io/tags/2021/</loc>
-    <lastmod>2022-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Experience/</loc>
-    <lastmod>2022-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Summary/</loc>
-    <lastmod>2022-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://olivezq.github.io/tags/Life-improvements/</loc>
     <lastmod>2022-04-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -188,7 +167,7 @@
   </url>
   
   <url>
-    <loc>https://olivezq.github.io/tags/ESL/</loc>
+    <loc>https://olivezq.github.io/tags/Economics/</loc>
     <lastmod>2022-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -196,13 +175,6 @@
   
   <url>
     <loc>https://olivezq.github.io/tags/Writing/</loc>
-    <lastmod>2022-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Economics/</loc>
     <lastmod>2022-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -237,7 +209,49 @@
   </url>
   
   <url>
+    <loc>https://olivezq.github.io/tags/ESL/</loc>
+    <lastmod>2022-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/2021/</loc>
+    <lastmod>2022-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/Experience/</loc>
+    <lastmod>2022-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/Summary/</loc>
+    <lastmod>2022-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/Extended-Math/</loc>
+    <lastmod>2022-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://olivezq.github.io/tags/Fiction/</loc>
+    <lastmod>2022-04-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/Physics/</loc>
     <lastmod>2022-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -258,21 +272,7 @@
   </url>
   
   <url>
-    <loc>https://olivezq.github.io/tags/Physics/</loc>
-    <lastmod>2022-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://olivezq.github.io/tags/Productivity/</loc>
-    <lastmod>2022-04-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Extended-Math/</loc>
     <lastmod>2022-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -295,14 +295,14 @@
 
   
   <url>
-    <loc>https://olivezq.github.io/categories/Life/</loc>
+    <loc>https://olivezq.github.io/categories/Rationality/</loc>
     <lastmod>2022-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://olivezq.github.io/categories/Rationality/</loc>
+    <loc>https://olivezq.github.io/categories/Life/</loc>
     <lastmod>2022-04-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
