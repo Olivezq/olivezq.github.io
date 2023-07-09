@@ -6,7 +6,7 @@
   <link href="https://olivezq.github.io/atom.xml" rel="self"/>
   
   <link href="https://olivezq.github.io/"/>
-  <updated>2023-07-06T04:36:57.861Z</updated>
+  <updated>2023-07-09T09:26:21.054Z</updated>
   <id>https://olivezq.github.io/</id>
   
   <author>
@@ -17,11 +17,46 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>高二学期总结 Summary of the Second Year of High School (Chinese.ver)</title>
+    <link href="https://olivezq.github.io/2023/07/09/%E9%AB%98%E4%BA%8C%E6%80%BB%E7%BB%93/"/>
+    <id>https://olivezq.github.io/2023/07/09/%E9%AB%98%E4%BA%8C%E6%80%BB%E7%BB%93/</id>
+    <published>2023-07-09T09:14:19.000Z</published>
+    <updated>2023-07-09T09:26:21.054Z</updated>
+    
+    <content type="html"><![CDATA[<p>原定GitHub是每月更新两次，但是因为大考鸽了两个月，所以这个七月打算把五月和六月少更新的4篇都补上。正好高二学期圆满结束，高一学期结束时也作过总结（虽然是8月份作的），遂作高二学期总结。因为大考成绩还没出，所以校内先暂时不论。</p><h1 id="标化"><a href="#标化" class="headerlink" title="标化"></a>标化</h1><p><strong>时间总占比：0.0000001%</strong><br>因为高一的时候出了7.5分，复议后到了8分，我高二就没有关注雅思的事情了。这个暑假打算再考一次。于是大考完后我就看了看口语题库，做了一套听力。当然有前车之鉴我是不会再裸考了，现在还在思考怎么抽时间准备雅思。</p><h1 id="竞赛"><a href="#竞赛" class="headerlink" title="竞赛"></a>竞赛</h1><p><strong>时间总占比：5%</strong><br>这个高二我对学习不是很上心，连带竞赛也被拖了后腿。大家参加FBLA的时候，我在学校水课；大家参加BPHO的时候，我在麦当劳恰饭；大家参加AMC的时候，我直接回家玩…<br>直到大家都拿了UKMT金奖，我妈开始急了。<br>我想没有数学的奖确实申请的时候说不过去，好的数学水平是很多专业的敲门砖，遂报名了欧几里德数竞。毕竟这是唯一一个当时还在报名期间的竞赛了。</p><h2 id="欧几里德数竞"><a href="#欧几里德数竞" class="headerlink" title="欧几里德数竞"></a>欧几里德数竞</h2><p>这属于孤注一掷，过了这村没这店，我把近四年的真题都在<a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html">官网</a>上找到打印出来了（点“<a href="https://www.cemc.uwaterloo.ca/contests/past_contests.html">官网</a>”可以直接看到很多竞赛的真题，往下滑有“Euclid (Grade 12)”一栏，表格里都是欧几里德的真题、答案和分数线），在学校水课的时候就写写，回家改卷子揣摩答案，第二天去学校有不会的还可以问同学问老师。就这样每天两点一线，大家可以看到我做第一张卷子的时候还是61分（25%的分数线68分），最后一张卷子的时候已经81分了（Honor Roll的分数线80分）。但是我知道这只是给心理一个安慰，以我多年参加数竞的经验，真实考试状态肯定比平时做要差，所以心态也没有放松。（可以点击图片看大图）<br><a href="https://postimg.cc/vcYjMZgS"><img src="https://i.postimg.cc/SNCp6Xyq/1.jpg" alt="1.jpg"></a><br>我做真题的步骤是这样的：</p><ul><li>找到真题并打印</li><li>在可以随意撕下纸张的草稿纸册子上（这得说一下米黄色护眼原木浆草稿纸，配什么颜色的字都很好看，特别是黑蓝红色，大小放在桌上看着小但是特别适合刷题用），把纸分成三栏，竖着写题，标清楚题号（如图）（因为欧几里德题都挤在一起，没有空间，直接就着打印稿做题是不科学的，所以需要草稿纸，既当草稿纸又当答题卡）</li><li>写完用红笔打勾</li><li>批改的时候就可以订正和看看错因了，我是基础题改一题订正一题，难题先改了算分再说</li><li>回到纸的开头记下分数和当年分数线</li><li>开始揣摩难题的答案</li><li>总结经验和技巧<br>如下是我做一套题的草稿纸例子，包括一些具体的做题技巧打在旁边。当然仅供参考，这也只是我备考欧几里德时的方法，针对其他考试不一定有用。<br><a href="https://postimg.cc/wtQL6gs0"><img src="https://i.postimg.cc/bvKT9vYc/2.jpg" alt="2.jpg"></a><br><a href="https://postimg.cc/DSVXL8rx"><img src="https://i.postimg.cc/Dw0PVG83/3.jpg" alt="3.jpg"></a><br>刷题到自己满意的分数后，我就把官网上欧几里德数竞的考纲翻出来对照我的错题和每套题的总结，按它的考纲系统精简出一个总的总结出来。这样可以通过它会考的知识点再检查一遍自己有没有掌握。我就简单分享一下我针对我自己的总结（也就是我考前一定要看一遍的提醒事项）（不是完全照着考纲写的）：</li><li>consecutive number：指连续的数，比如1，2，3。而不是指连续增加的数，比如2，4，8。</li><li>概率问题，需要从nCr和nPr等角度多考虑。</li><li>穷举法</li><li>圆的面积：圆周率x r^2 （因为我总是多乘一个1/2）</li><li>题目中可能的隐含条件：lgA中，A一定大于0</li><li><strong>分类讨论</strong></li><li>分步骤写</li><li><strong>条件推条件</strong>（比如一些隐含条件）</li><li>2sinxcosx=sin2x</li><li>一个思路：等式两边同时平方</li><li>证明时，假设我们的假设错误</li><li>perfect square可以被1，3整除（所以做题时要学会自己找条件，比如题目给xxx是perfect square，则要自己推理出xxx可以被1，3整除）</li><li>无论多少个未知数，大胆设</li><li>做大题时，abc问的答案可以推出d问的答题思路</li><li>注意关注列出来的式子有没有特殊性，比如可以套公式</li><li>写出答案后要回题目看看有没有答对题</li><li>记得带计算器，计算器要摁对</li><li>一个思路：展开式子</li><li>做题时，可以试着重组题目的式子，而不是尽量将自己列出来的式子迎合原题的式子</li><li>球体体积计算公式</li><li>追击问题：找到相同量，画图，标路程</li><li>考虑全所有情况</li><li>rectangular prism：就是长方体</li><li>表达最简</li></ul><p>考试的时候我坐在教室前门的位置，那个门关不紧，所以我吹了一场考试的冷风。由此可见，真正考试的时候状态和环境是没有办法完全保证和提前知道的，因此，考前做好做多准备是有必要的。<br>果不其然真实考试状态肯定比平时做要差，成绩出来之后我是68分。我当时觉得准寄了，因为去年分数线就是68分，而以我这种非酋运气肯定又是差一点点。我也没有多难过，因为这种事经历多了，我就真的无所谓了。<br>等升学老师发来奖状的时候，我的第一反应：这次运气这么好卡线拿奖？然后当然是开心一下。知道分数线65分后，更开心了，没想到我还不是正好卡线的。</p><h2 id="TMUA"><a href="#TMUA" class="headerlink" title="TMUA"></a>TMUA</h2><p>除了欧几里德以外，我高二准备的另一项考试就是TMUA。因为我打算申请剑桥的经济学（此句为过去式），而剑桥经济需要TMUA的成绩。备考过程很开心，最后放弃考试的时候也很开心。<br>我TMUA备考时间很长，具体多长我不记得了，反正有很长一段时间我的学校日常都是做TMUA题，然后每个课间去找数学老师问问题（特别致谢Tracy老师，多难的题都能做出来）。因为TMUA题一开始真的对我来说很难，所以我一周也就做10道题，但保持这个量，坚持下来，做过的题加在一起也挺厚的（滴水穿石啊）。在老师们的帮助下，我后来自己也能做出来大部分TMUA的题了，甚至不需要再去找老师答疑了。<br><a href="https://postimg.cc/tYn6shx1"><img src="https://i.postimg.cc/gkNHBscK/4.jpg" alt="4.jpg"></a><br>当然我这个水平短时间内能提高很多也是不科学的，我离真正的数学大佬还有很大的距离。一个周末，我抽空做完了一整套TMUA题（在备考完后），成绩只堪堪到进剑桥经济的申请人的TMUA平均成绩。那我要是正式考试不得考得更差。<br>但真正让我停止备考TMUA的原因，是我有一天晚上进行了一番思想上的觉悟。大家总有大彻大悟的时候，那个晚上我就痛苦地大彻大悟了。具体过程就不说了，简单来讲就是我被搞了心态，结果我突然明白我根本就不喜欢纯经（指纯纯经济）。这个认知当时给我带来很大的打击，但我确实无法说纯经是我的人生追求，我喜欢经济，但没有热爱到可以坚持学它到大学毕业的程度。所以大家一定要提早认知自己到底喜不喜欢自己申请的专业，不然你就得等到开始计划文书的时候，就会很痛苦。但放弃纯经的瞬间我还是蛮开心的，等于我再没有一直压着我的潜意识了，不用那么压抑地啃生涩的经济理论书，也不用和纯经战士们卷了。还有就是，可以不考TMUA了。<br>但备考TMUA对我来说并不是无意义的，因为我数学能力有了一定的提升。</p><h2 id="Solve-For-Tomorrow"><a href="#Solve-For-Tomorrow" class="headerlink" title="Solve For Tomorrow"></a>Solve For Tomorrow</h2><p>我曾经对工程没有兴趣，因为我对工程的认知比较浅显，认为就是像小学做劳技那样。<br>后来我同学参加了Solve For Tomorrow，需要两个人组队。它需要工程需要的动手能力和创新思维。我的同学很nb，自己一个人也能拿奖，于是和我们商量后将我的名字一起填上报名表，仅仅是为了满足报名要求。我：好耶白嫖<br>到比赛现场后，令人惊讶的是，进入决赛的小组里都至少有一位参赛者是男生，只有我们俩都是女生。因此也有很多记者路过我们时用奇怪的眼光看着我们，问我们对此的感想。我们第一次在比赛场地试走小车时，旁边站着一位老男人，当小车失败地掉下台阶时，他不屑地发出嘲笑声，似乎因为我们是女生而觉得我们失败很正常，因为别人试行时他都一言不发。我和同学都有点被比赛环境激怒了，于是我也想为比赛出力。<br>一开始我只是帮忙换电池，后来我从同学的操作中学会了辨别可以让小车有力的电池和坏电池。再后来我对她的小车模型如何搭建和运转有了更清晰的认知，更清楚每个零件的作用，并发觉工程所带来的化无用为我所用的魔力。当我们拿出国际部的书试走小车、用废弃的眼镜架当小车的一部分时，大家都好奇地路过匆匆看几眼。<br>在保证小车轻盈又能爬很高的情况下，我也时不时提出业余的建议，为同学提供多角度思路。小车翻滚，拖着眼镜架，也拖着我们的期望和汗水，最终成功爬上与水平面垂直的台阶，拿到了二等奖。<br>这就是我的白嫖故事。感谢同学，感谢领导对我工作的信任和肯定，感谢同志们对我工作的支持与帮助，我一定加倍努力工作，不辜负领导和同志们对我的期望。</p><h1 id="活动"><a href="#活动" class="headerlink" title="活动"></a>活动</h1><p><strong>时间总占比：40%</strong><br>整个高二，就如我之前所说，大家参加FBLA的时候，我在学校水课；大家参加BPHO的时候…打住打住。</p><h2 id="阅读"><a href="#阅读" class="headerlink" title="阅读"></a>阅读</h2><p>不攻纯经后，我也不看书了，像<em>Money Mischief: Episodes in Monetary HIstory</em>，<em>Principles of Economics</em>什么的，我都不看了。不过我还是有些心得体会不吐不快。<br>刚才打出来的两本中，其中一本，<em>Money Mischief</em>，生涩难懂，全书看完我就记得一个有一群人用银子阴金子（那个时候我还没有记笔记的习惯），被称为Coinage Act of 1873。这个1873年“惨案”我在网上搜到的相关资料很少，所以大家平时想装酷可以说：“噢，这和那个Coinage Act of 1873很像啊！“，效果拔群。除此以外，Milton Friedman很厉害，<em>Money Mischief</em>很好看，就是我有点拉。<br>另外一本，<em>Principles of Economics</em>，比较无聊，大家看的时候要做好心理准备。但如果你热爱纯经这本你能捧着它看一整月。<br>最喜欢的当然是<em>Freakonomics: A Rogue Economist Explores the Hidden Side of Everything</em>和<em>Misbehaving:The Making of Behavioral Economics</em>。这两本真的纯经（纯纯跨学科经济），看着也不无聊。特别是<em>Misbehaving:The Making of Behavioral Economics</em>，作者真的很喜欢嘲讽，我在书旁边批注的时候还会应和他，聊得可开心了，写文书时就一抓瞎。<br><em>New Ideas From Dead Economists</em>我是精读的，这本适合入门，从历史角度介绍经济学家和他们的经济学理论。建议大家都看看！<br><em>Nudge</em>是和<em>Misbehaving</em>一个作者写的，我只看了开头，但应该和<em>Misbehaving</em>差不多，可能更正经一点。<br>掐指一算，经济书我也读了有9本了，大家感兴趣的话可以去我之前发过的帖子<a href="https://olivezq.github.io/2023/02/26/reading%20list/">My Economics Reading List and Thoughts</a>里看我以前写的阅读体会，我也不是纯经人了，这里不多赘述。<br>说回我不看书了，这指的是正经书，杂书我不攻纯经后还是看了点。说是“看了点”，主要是因为大多杂书不好看，了解套路的看到一半就弃了。或者是看了戏剧，<em>Six Short Plays</em>等，看得开心但没有看出名堂。读了语言，<em>A First Spanish Reader</em>，超出我的能力范围。看外网同人（算是重捡初中会干的事，那时网课就无聊看<a href="https://www.fanfiction.net/">fanfiction</a>上的HP同人，最喜欢的是<em>The Serpentine Subterfuge</em>，看得手痒还去<a href="https://www.quotev.com/">Quotev</a>参加了一个writing contest，结果拿了第三（那个时候还没有277事件，Quotev还没有被禁，也没有博君一肖…）），<em>Side effects include</em>等，作者们的丰富想象力和OOC笔力让人叹为观止，最大体会就是国外和国内的同人风格真是迥异。读了诗集，<em>My Sucky Life</em>等，还行。原创小说也有看，<em>The Boy and Girl Who Broke the World</em>，看名字感觉是bg对吧，实际上很离谱，男主和一个到最后才出现的女配在一起了，女主是gl，等等。还读了传记，<em>Born a Crime</em>，很好看。中文书我也有看，杨本芬三部曲都特别好看，也算是传记。还读了《罗生门》《你当像鸟飞往你的山》《肠子》等等不多赘述。<br>那为了更多了解我想学的专业，我就开始看不限于经济的书，当然，还是和经济有关的，因为我只是单纯不学纯经。因为临时换专业，我再没有很多时间慢慢啃书，所以我开始看中文版。即便如此我看得还是很慢，目前只看完了《房地产金融原理》，还在看《环境经济学 第7版》。看得慢是因为我还要做笔记。下面是我做笔记的一些技巧。<br><a href="https://postimg.cc/grJ8W9cH"><img src="https://i.postimg.cc/SQLrcqw3/5.jpg" alt="5.jpg"></a><br><a href="https://postimg.cc/3WcprLd5"><img src="https://i.postimg.cc/Dy2cgHhZ/6.jpg" alt="6.jpg"></a></p><h2 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h2><p>阅读完就是写作。我从2022年2月开始坚持每天写一点点，就是随便写写，已经坚持了247天（因为有的时候就是太忙了写不了），加起来有将近十万字。但说实话没有感觉我的文笔有什么进步…<br>歌，诗，论文也写了不少。这些我都比较倾向用英文写，因为我的中文创作水平还没有到达我满意的程度。</p><h2 id="知识竞答"><a href="#知识竞答" class="headerlink" title="知识竞答"></a>知识竞答</h2><p>那天一位同学，还是那位带我白嫖的工程佬，突发奇想说可以去做学校组织的知识竞答看看能不能拿奖，正好国际班有手机，普高没有。我：你是天才<br>于是我们放学就来体育场，搁那一站，点开液晶屏，脸部识别身份。我们还乐着呢，结果一看答题界面，限时25秒。这没有点手速真的来不及搜。它考的又是体育，我们只好瞎选。最后正确率55%。惊人的是排行榜上有位同学正确率99.9%，我们连知识竞答都卷不过普高。<br>这事都过去好久了，突然学校说要发奖。我还想不可能是我们那个知识竞答，结果是真的，拿了个三等奖，想必是参与了就有奖。这也姑且算一个活动吧。</p><h2 id="IOL社"><a href="#IOL社" class="headerlink" title="IOL社"></a>IOL社</h2><p>高一末的时候我创建了IOLC语言学与推理社，这个名字报上去的时候还蛮尴尬的，但是效果拔群，上社团体验课的时候有62人报名。<br>关于这个社团的历程一天一夜都说不完。<br>我高二开学开始的正式招新。我设计了三张海报，贴在学校墙上。学校有招新会，于是产生了如下我认为我最帅的一张生活照。<br><a href="https://postimg.cc/vcYcQVdn"><img src="https://i.postimg.cc/4NttQ6LW/7.jpg" alt="7.jpg"></a><br>招到了十几个人，当时和生物社招到的人数是差不多的，但是实际真的在我们社团上过两节课以上的只有3个人，上过四节课以上的1个人。所以，如果你说我们社团只有两个人，我，和那位坚持来上社团课的高一同学，那从某种角度上来说真的可以这么说。这不能怪其他同学，IOLC是一门一开始接触会感觉头大的竞赛，而语言学也不是很多人的专业方向。<br>不过这不影响我拿个ITCCC认证IOLC校园大使，和铜牌社团，和APLO邀请名额。<br>说到APLO，这是亚太平洋语言学竞赛，我和那位高一同学受到邀请后，真的参加了。监考什么的都要我去搞定，还好有学生愿意志愿，老师也同意在周末借我们一个教室考试。考了五个小时，我见证世界从明媚阳光到昏黄夕阳的演变，等天黑得我快看不清字的时候，考试才结束。考完感觉心灵被净化，一直坐五个小时不喝水不上厕所，对着五道难题左思右想，真的会给你带来心境的蜕变。当然没有拿奖。<br>后来老师说让我在公开体验日上作社团体验课，我：什么？我们社才两个人<br>我就做了三页的讲义，PPT。在所有社团成员的帮助下（指两个人），我们隆重欢迎了将近六十人来到我们的体验课。有人对我们社团感兴趣，我们都是很感动的。<br><a href="https://postimg.cc/svT11gVN"><img src="https://i.postimg.cc/jSbfgDBt/8.jpg" alt="8.jpg"></a></p><h2 id="学生会"><a href="#学生会" class="headerlink" title="学生会"></a>学生会</h2><p>高一我是学生会通用部成员，高二我是学术部副部长，不过和高一一样，我没什么体验感。主要是学术部也没有什么事干，写通稿、做小报，都是很快的事。<br>倒是学生会竞选的时候，我当了英文主持人。因为学生会这时还没被选出来，所以我半个负责了学生会竞选的事。学生会竞选和GALA和迎新会同时进行，所以需要筹备很多事。写主持词，做PPT，安排节目等等，一开始这些任务都在我头上。<br>我：我得找外包<br>于是我找上另外一位高一的主持人，和他一起做PPT，写主持词。他将他做的PPT发过来后，就相当于有了个模子。我又进行了整改，加上学生会主席团候选人发给我的PPT，最后的整个PPT有将近2G。伴奏等我用NCM转换器自己找了一遍。主持词中英对照。做完这些事，我花了一周时间，每天只有晚上到家做一做，平时照样上课。<br>然后就是彩排，那天彩排到晚上7点，有披萨吃，还是很不错的。<br>最后迎新会圆满结束。<br><a href="https://postimg.cc/5XjyzWyN"><img src="https://i.postimg.cc/Hk9yfpC5/9.jpg" alt="9.jpg"></a></p><h2 id="班委"><a href="#班委" class="headerlink" title="班委"></a>班委</h2><p>今年我还是学习委，再加上数学课代表。高二第一学期我是三好学生加上优秀班干部，第二学期我是优秀班干部。</p><h2 id="译之韵"><a href="#译之韵" class="headerlink" title="译之韵"></a>译之韵</h2><p>高二我还参加了学校组织的汉文化活动中的译之韵比赛，也就是翻译古诗。我拿的是特等奖，翻译的《正月十五日夜》。我一直很喜欢这首诗，六年级曾经写过以它为蓝本的小故事。</p><p>暂时关于活动就写这么多，想起再补充。</p>]]></content>
+    
+    
+    <summary type="html">原定GitHub是每月更新两次，但是因为大考鸽了两个月，所以这个七月打算把五月和六月少更新的4篇都补上。正好高二学期圆满结束，高一学期结束时也作过总结（虽然是8月份作的），遂作高二学期总结。因为大考成绩还没出，所以校内先暂时不论。</summary>
+    
+    
+    
+    <category term="Life" scheme="https://olivezq.github.io/categories/Life/"/>
+    
+    
+    <category term="Experience" scheme="https://olivezq.github.io/tags/Experience/"/>
+    
+    <category term="Summary" scheme="https://olivezq.github.io/tags/Summary/"/>
+    
+    <category term="Study Tips" scheme="https://olivezq.github.io/tags/Study-Tips/"/>
+    
+    <category term="IELTS" scheme="https://olivezq.github.io/tags/IELTS/"/>
+    
+    <category term="Activities" scheme="https://olivezq.github.io/tags/Activities/"/>
+    
+    <category term="IOLC" scheme="https://olivezq.github.io/tags/IOLC/"/>
+    
+    <category term="Linguistics" scheme="https://olivezq.github.io/tags/Linguistics/"/>
+    
+    <category term="Euclid" scheme="https://olivezq.github.io/tags/Euclid/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Agglomeration Economies:A Catalyst for Urban Development</title>
     <link href="https://olivezq.github.io/2023/07/06/AgglomerationEconomies/"/>
     <id>https://olivezq.github.io/2023/07/06/AgglomerationEconomies/</id>
     <published>2023-07-06T04:26:58.000Z</published>
-    <updated>2023-07-06T04:36:57.861Z</updated>
+    <updated>2023-07-06T04:38:24.488Z</updated>
     
     <content type="html"><![CDATA[<p>The existence and growth of cities are shaped by a multitude of factors, and while agglomeration economies play a significant role, they alone cannot fully explain the phenomenon. This essay explores the concept of agglomeration economies and their contribution to the formation and development of cities. It also highlights other crucial factors that influence urbanization, emphasizing the multifaceted nature of urban growth.</p><p>Agglomeration economies refer to the economic advantages that arise from the spatial concentration of economic activities. These benefits include economies of scale, knowledge spillovers, labor market pooling, and enhanced access to specialized inputs and infrastructure. The presence of these economies attracts businesses, workers, and industries to cluster together in urban areas, fostering productivity, innovation, and overall economic growth. </p><p>Economies of scale occur when firms benefit from lower production costs due to a large consumer base, shared infrastructure, and efficient supply chains. For example, specialization and the division of labour are an obvious source of economies of scale as workers become increasingly efficient in the tasks that they carry out. Knowledge spillovers result from the proximity of firms, leading to the exchange and diffusion of ideas, innovation, and technological advancements. Labor market pooling allows firms to access a diverse talent pool, facilitating better matching of skills and reducing search costs. Additionally, cities often offer specialized inputs, such as specialized suppliers, research institutions, and professional services, providing firms with a competitive advantage.</p><p>While agglomeration economies are crucial, they do not provide a comprehensive explanation for the existence of cities. Historical, geographic, and political factors also contribute significantly to urbanization.</p><p>Historical factors can shape the initial development of cities. Trade routes, colonial legacies, or the presence of ancient settlements create favorable conditions for urban growth. These historical circumstances establish the foundations upon which cities are built, setting the stage for future economic and social activities. For example, cities such as Istanbul (formerly Constantinople) owe their early development to their strategic location along major trade routes. Istanbul’s position as a crossroads between Europe and Asia made it a thriving trading center throughout history. Therefore, trade routes, as a historical factor, can stimulate development of cities.</p><p>Geographic factors influence the location and growth of cities. Proximity to natural resources, access to transportation networks, favorable climatic conditions, or strategic locations can attract settlements and facilitate their expansion. For example, for favorable climatic conditions, cities may have suitable agricultural conditions or access to water sources, so they have better environments to development than other cities which may suffer from drought and other natural disasters. Coastal cities, for instance, often develop due to their advantageous position for trade and transportation.</p><p>Political decisions and governance structures also play a vital role in urban development. Government policies, incentives, and investments in infrastructure can stimulate the growth of cities. Effective urban planning, zoning regulations, and public services also contribute to the attractiveness and livability of urban areas. Conversely, political instability, inadequate governance, or poor policies can hinder urban growth. Curitiba, Brazil, is often cited as an example of successful urban planning with its integrated public transportation system, green spaces, and mixed-use zoning, which have contributed to a high quality of life for its residents.</p><p>Agglomeration economies are undeniably important catalysts for urbanization. They foster economic growth, productivity, and innovation by creating a conducive environment for businesses, workers, and industries to thrive. However, attributing the existence of cities solely to agglomeration economies oversimplifies the complex nature of urban development.</p><p>Understanding the interplay of various factors is crucial for policymakers and urban planners. Recognizing the role of agglomeration economies enables them to leverage these benefits through strategic interventions, such as promoting collaboration between firms, investing in infrastructure, and fostering innovation. Simultaneously, considering other factors helps in crafting holistic urban development strategies that address historical, geographic, and political challenges.</p><p>In conclusion, while agglomeration economies are essential in explaining the growth and prosperity of cities, they should be seen as part of a larger framework. Acknowledging the multifaceted nature of urban development allows for a comprehensive analysis and a more informed approach towards creating sustainable, inclusive, and vibrant cities. By embracing a broader perspective, we can better understand the dynamics behind the existence of cities and work towards maximizing their potential for the benefit of society as a whole.</p>]]></content>
     
@@ -33,13 +68,13 @@
     <category term="Rationality" scheme="https://olivezq.github.io/categories/Rationality/"/>
     
     
-    <category term="Urban Economics" scheme="https://olivezq.github.io/tags/Urban-Economics/"/>
+    <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
     
     <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
     
-    <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
-    
     <category term="Essay" scheme="https://olivezq.github.io/tags/Essay/"/>
+    
+    <category term="Urban Economics" scheme="https://olivezq.github.io/tags/Urban-Economics/"/>
     
     <category term="Agglomeration Economies" scheme="https://olivezq.github.io/tags/Agglomeration-Economies/"/>
     
@@ -62,9 +97,9 @@
     <category term="Rationality" scheme="https://olivezq.github.io/categories/Rationality/"/>
     
     
-    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
-    
     <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
+    
+    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
     
     <category term="Essay" scheme="https://olivezq.github.io/tags/Essay/"/>
     
@@ -91,13 +126,13 @@
     <category term="Rationality" scheme="https://olivezq.github.io/categories/Rationality/"/>
     
     
-    <category term="Urban Economics" scheme="https://olivezq.github.io/tags/Urban-Economics/"/>
+    <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
     
     <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
     
-    <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
-    
     <category term="Essay" scheme="https://olivezq.github.io/tags/Essay/"/>
+    
+    <category term="Urban Economics" scheme="https://olivezq.github.io/tags/Urban-Economics/"/>
     
     <category term="LVT" scheme="https://olivezq.github.io/tags/LVT/"/>
     
@@ -145,9 +180,9 @@
     <category term="Rationality" scheme="https://olivezq.github.io/categories/Rationality/"/>
     
     
-    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
-    
     <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
+    
+    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
     
     <category term="Essay" scheme="https://olivezq.github.io/tags/Essay/"/>
     
@@ -257,11 +292,11 @@
     
     
     
+    <category term="Psychology" scheme="https://olivezq.github.io/tags/Psychology/"/>
+    
     <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
     
     <category term="Essay" scheme="https://olivezq.github.io/tags/Essay/"/>
-    
-    <category term="Psychology" scheme="https://olivezq.github.io/tags/Psychology/"/>
     
     <category term="Mental" scheme="https://olivezq.github.io/tags/Mental/"/>
     
@@ -288,9 +323,9 @@
     <category term="Rationality" scheme="https://olivezq.github.io/categories/Rationality/"/>
     
     
-    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
-    
     <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
+    
+    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
     
     <category term="Essay" scheme="https://olivezq.github.io/tags/Essay/"/>
     
@@ -325,11 +360,11 @@
     
     <category term="Practical" scheme="https://olivezq.github.io/tags/Practical/"/>
     
+    <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
+    
     <category term="Experience" scheme="https://olivezq.github.io/tags/Experience/"/>
     
     <category term="Summary" scheme="https://olivezq.github.io/tags/Summary/"/>
-    
-    <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
     
     <category term="Characters" scheme="https://olivezq.github.io/tags/Characters/"/>
     
@@ -381,9 +416,9 @@
     <category term="Rationality" scheme="https://olivezq.github.io/categories/Rationality/"/>
     
     
-    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
-    
     <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
+    
+    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
     
     <category term="Showbiz" scheme="https://olivezq.github.io/tags/Showbiz/"/>
     
@@ -460,9 +495,9 @@
     
     <category term="Practical" scheme="https://olivezq.github.io/tags/Practical/"/>
     
-    <category term="Experience" scheme="https://olivezq.github.io/tags/Experience/"/>
-    
     <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
+    
+    <category term="Experience" scheme="https://olivezq.github.io/tags/Experience/"/>
     
     <category term="Life Improvements" scheme="https://olivezq.github.io/tags/Life-Improvements/"/>
     
@@ -491,9 +526,9 @@
     
     <category term="Practical" scheme="https://olivezq.github.io/tags/Practical/"/>
     
-    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
-    
     <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
+    
+    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
     
     <category term="Life Improvements" scheme="https://olivezq.github.io/tags/Life-Improvements/"/>
     
@@ -551,40 +586,15 @@
     <category term="Life" scheme="https://olivezq.github.io/categories/Life/"/>
     
     
-    <category term="2021" scheme="https://olivezq.github.io/tags/2021/"/>
+    <category term="Health" scheme="https://olivezq.github.io/tags/Health/"/>
     
     <category term="Writing" scheme="https://olivezq.github.io/tags/Writing/"/>
     
-    <category term="Health" scheme="https://olivezq.github.io/tags/Health/"/>
+    <category term="2021" scheme="https://olivezq.github.io/tags/2021/"/>
     
     <category term="Fiction" scheme="https://olivezq.github.io/tags/Fiction/"/>
     
     <category term="ESL" scheme="https://olivezq.github.io/tags/ESL/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Book Review:Bad Blood:Secrets and Lies in a Silicon Valley Startup</title>
-    <link href="https://olivezq.github.io/2022/10/06/badblood/"/>
-    <id>https://olivezq.github.io/2022/10/06/badblood/</id>
-    <published>2022-10-06T06:48:47.000Z</published>
-    <updated>2022-10-06T07:44:38.150Z</updated>
-    
-    <content type="html"><![CDATA[<p>This book is called Bad Blood. And it was written by a journalist, which means all the stories in the book are based on actual facts. It is a book which I read during the summer vocation. And here are some reviews that I personally think are important.</p><p><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.p6X4T3aV1HFRrRqlHRBs0gHaLO?w=179&h=271&c=7&r=0&o=5&dpr=2&pid=1.7" alt="BadBlood"></p><h2 id="First-the-advantages"><a href="#First-the-advantages" class="headerlink" title="First the advantages:"></a>First the advantages:</h2><ul><li>The author is very powerful in creating a repressive and high-pressure atmosphere within the company. He not only said that “people in this company are terrified”, but also made people realize the inhumanity of Holmes through various facts. For example, he mentioned that Sandy, the second senior manager of the company, set up all the cubicles as glass rooms. Sandy laid on the glass every day to find out what employees were lazy, so that he could dismiss them. For another example, it is mentioned in the book that there were a group of people in the company called “Brotherhood”. They were all friends of Elizabeth’s brother, and their only entertainment activity in the company every day was to calculate how long they sneak out to play today without being found by Sandy.</li><li>The whole company is perfectly highlighted by the author as cold, inhuman, repressive, formalistic and other characteristics. Whenever an employee couldn’t bear to resign, Elizabeth would not even tell any employee about the resignation of that person. When an employee died unexpectedly, the whole company was no different and continued to work, like a ruthless machine. Many motivational quotations were hung in the office building, and even many quotations were painted on the wall, which was always in contrast to the coldness of the company.</li><li>The author described the whole story in very strict words. From entrepreneurship to bankruptcy. In the early stage, he described a lively and ambitious girl, and in the later stage, he wrote a stubborn and angry CEO of the company. The transition was natural, as if he was looking at a person’s life rather than just a story.</li><li>The author has a strong and fluent writing skill. He described Elizabeth, Sandy and others vividly through language description of appearance, etc. For example, when the author described Elizabeth’s cover in Fortune: “She wore a black turtleneck sweater, black mascara set off sharp blue eyes, bright red mouth, and beside the eye-catching title: ‘CEO living for blood’. “The black turtleneck sweater was an appearance feature that the author had always emphasized, as was her deep voice. This is what the author wants to highlight. Elizabeth’s leadership image is actually an imitation of Apple’s Jobs (trying to be the second Jobs) It is also a metaphor that Elizabeth’s shiny appearance is actually a lie, because as mentioned earlier, Elizabeth had an extraordinary obsession with Jobs and often wore black turtleneck sweaters similar to Jobs after accepting friends’ suggestions.</li><li>It truly reflects: bragging about your products, obtaining funds, and covering up your real progress, hoping that the reality will eventually catch up with your boast. This phenomenon is still tolerated in the technology industry.</li><li>At the end, he pointed out that at the beginning, when Elizabeth dropped out of Stanford University 15 years ago, she did not want to cheat investors and trap patients in a dangerous place. Everyone believed that she sincerely believed in a vision and devoted herself to it to realize it. But in the gold rush of the “unicorn” craze, and in the process of her all-out pursuit of becoming the second Steve Jobs, there was a turning point when she stopped listening to wise suggestions and began to seek shortcuts. Her ambition was too greedy to tolerate any interference. This paragraph is really a perfect summary of all the above.</li><li>It reminds us that we should not trap the white wolf with our bare hands. It also tells us that it is good to have a dream of benefiting mankind, but if we don’t pay attention to the product itself and exaggerate it, we will end up suffering from the consequences. The bubble of lies will eventually burst. Seeking shortcuts will not only fail to harvest success, but also lose self.</li><li>The structure of the story is tight and compact. None of the details is nonsense.</li></ul><p><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.1gDT2EQ3ZKFy7KvC1rSvjwHaOG?w=116&h=180&c=7&r=0&o=5&dpr=2&pid=1.7" alt="elizabeth"></p><h2 id="Disadvantages"><a href="#Disadvantages" class="headerlink" title="Disadvantages:"></a>Disadvantages:</h2><ul><li>The early story is too bland, and there are many summaries of previous stories, which may make some readers give up halfway.</li><li>The level of Chinese translation is relatively poor.</li><li>The author likes to repeat the name of the character instead of using him or her instead, but it is much better than Crime and Punishment.</li></ul><p><img src="https://ts1.cn.mm.bing.net/th/id/R-C.39571570dac5d7ecddad26188199c62c?rik=1r/vjniwYGdPng&pid=ImgRaw&r=0" alt="elizabeth2"></p>]]></content>
-    
-    
-    <summary type="html">This book is called Bad Blood.</summary>
-    
-    
-    
-    <category term="Rationality" scheme="https://olivezq.github.io/categories/Rationality/"/>
-    
-    
-    <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
-    
-    <category term="ESL" scheme="https://olivezq.github.io/tags/ESL/"/>
-    
-    <category term="Review" scheme="https://olivezq.github.io/tags/Review/"/>
     
   </entry>
   
