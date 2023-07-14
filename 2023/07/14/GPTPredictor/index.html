@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222">
+<meta name="generator" content="Hexo 5.4.0">
+
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon-next.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32-next.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16-next.png">
+  <link rel="mask-icon" href="/images/logo.svg" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"olivezq.github.io","root":"/","images":"/images","scheme":"Muse","darkmode":false,"version":"8.8.2","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":false,"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"Searching...","empty":"We didn't find any results for the search: ${query}","hits_time":"${hits} results found in ${time} ms","hits":"${hits} results found"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+<meta name="description" content="关于GPTs are Predictors, not Imitators的中文翻译。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="GPTs are Predictors, not Imitators">
+<meta property="og:url" content="https://olivezq.github.io/2023/07/14/GPTPredictor/index.html">
+<meta property="og:site_name" content="doradolive">
+<meta property="og:description" content="关于GPTs are Predictors, not Imitators的中文翻译。">
+<meta property="og:locale" content="en_US">
+<meta property="article:published_time" content="2023-07-14T09:59:27.000Z">
+<meta property="article:modified_time" content="2023-07-14T10:06:44.930Z">
+<meta property="article:author" content="Olivezq">
+<meta property="article:tag" content="Translation">
+<meta property="article:tag" content="ChatGPT">
+<meta property="article:tag" content="Simulator Theory">
+<meta property="article:tag" content="AI">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://olivezq.github.io/2023/07/14/GPTPredictor/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"en","comments":true,"permalink":"https://olivezq.github.io/2023/07/14/GPTPredictor/","path":"2023/07/14/GPTPredictor/","title":"GPTs are Predictors, not Imitators"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>GPTs are Predictors, not Imitators | doradolive</title>
+  
+
+
+
+
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="doradolive" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <header class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="Toggle navigation bar" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">doradolive</p>
+      <i class="logo-line"></i>
+    </a>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu">
+        <li class="menu-item menu-item-home"><a href="/" rel="section">Home</a></li>
+        <li class="menu-item menu-item-about"><a href="/about/" rel="section">About</a></li>
+        <li class="menu-item menu-item-tags"><a href="/tags/" rel="section">Tags</a></li>
+        <li class="menu-item menu-item-categories"><a href="/categories/" rel="section">Categories</a></li>
+        <li class="menu-item menu-item-archives"><a href="/archives/" rel="section">Archives</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger">Search
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="Searching..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</div>
+        
+  
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-overview-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          Table of Contents
+        </li>
+        <li class="sidebar-nav-overview">
+          Overview
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author site-overview-item animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="Olivezq"
+      src="/images/avatar.gif">
+  <p class="site-author-name" itemprop="name">Olivezq</p>
+  <div class="site-description" itemprop="description">运筹帷幄之中，决胜于千里之外。</div>
+</div>
+<div class="site-state-wrap site-overview-item animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">44</span>
+          <span class="site-state-item-name">posts</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">5</span>
+        <span class="site-state-item-name">categories</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">75</span>
+        <span class="site-state-item-name">tags</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author site-overview-item animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/Olivezq" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;Olivezq" rel="noopener" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:zxmolive@163.com" title="E-Mail → mailto:zxmolive@163.com" rel="noopener" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://youtube.com/OliveFork" title="YouTube → https:&#x2F;&#x2F;youtube.com&#x2F;OliveFork" rel="noopener" target="_blank"><i class="fab fa-youtube fa-fw"></i>YouTube</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://instagram.com/iscoe_edge" title="Instagram → https:&#x2F;&#x2F;instagram.com&#x2F;iscoe_edge" rel="noopener" target="_blank"><i class="fab fa-instagram fa-fw"></i>Instagram</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://vk.com/id668715686" title="VK → https:&#x2F;&#x2F;vk.com&#x2F;id668715686" rel="noopener" target="_blank">VK</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="wechat:zxmolive" title="Wechat → wechat:zxmolive" rel="noopener" target="_blank"><i class="fab fa-weixin fa-fw"></i>Wechat</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="QQ:1191952777" title="QQ → QQ:1191952777" rel="noopener" target="_blank">QQ</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://t.me/IscoeE" title="Telegram → https:&#x2F;&#x2F;t.me&#x2F;IscoeE" rel="noopener" target="_blank"><i class="fab fa-telegram fa-fw"></i>Telegram</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://space.bilibili.com/346698779?spm_id_from=333.337.0.0" title="Bilibili → https:&#x2F;&#x2F;space.bilibili.com&#x2F;346698779?spm_id_from&#x3D;333.337.0.0" rel="noopener" target="_blank">Bilibili</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="https://music.163.com/#/user/home?id=1436101947" title="NetEase Music → https:&#x2F;&#x2F;music.163.com&#x2F;#&#x2F;user&#x2F;home?id&#x3D;1436101947" rel="noopener" target="_blank">NetEase Music</a>
+      </span>
+  </div>
+
+
+
+        </div>
+      </div>
+    </div>
+  </aside>
+  <div class="sidebar-dimmer"></div>
+
+
+    </header>
+
+    
+  <div class="back-to-top" role="button" aria-label="Back to top">
+    <i class="fa fa-arrow-up"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="en">
+    <link itemprop="mainEntityOfPage" href="https://olivezq.github.io/2023/07/14/GPTPredictor/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="Olivezq">
+      <meta itemprop="description" content="运筹帷幄之中，决胜于千里之外。">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="doradolive">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          GPTs are Predictors, not Imitators
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">Posted on</span>
+      
+
+      <time title="Created: 2023-07-14 17:59:27 / Modified: 18:06:44" itemprop="dateCreated datePublished" datetime="2023-07-14T17:59:27+08:00">2023-07-14</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">In</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/Rationality/" itemprop="url" rel="index"><span itemprop="name">Rationality</span></a>
+        </span>
+    </span>
+
+  
+    <span id="/2023/07/14/GPTPredictor/" class="post-meta-item leancloud_visitors" data-flag-title="GPTs are Predictors, not Imitators" title="Views">
+      <span class="post-meta-item-icon">
+        <i class="far fa-eye"></i>
+      </span>
+      <span class="post-meta-item-text">Views: </span>
+      <span class="leancloud-visitors-count"></span>
+    </span>
+</div>
+
+            <div class="post-description">关于GPTs are Predictors, not Imitators的中文翻译。</div>
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>GPT是预测者，而非模拟者<br>关于《GPTs are Predictors, not Imitators》的中文翻译。<br>原作者：Eliezer Yudkowsky<br>原文网址：<br><a target="_blank" rel="noopener" href="https://www.lesswrong.com/posts/nH4c3Q9t9F3nJ7y8W/gpts-are-predictors-not-imitators">https://www.lesswrong.com/posts/nH4c3Q9t9F3nJ7y8W/gpts-are-predictors-not-imitators</a></p>
+<hr>
+<p><em>本文在<a target="_blank" rel="noopener" href="https://alignmentforum.org/posts/nH4c3Q9t9F3nJ7y8W/gpts-are-predictors-not-imitators?_ga=2.184039142.1936754606.1688895171-273848117.1688895171">人工智能联盟论坛</a>交叉发布。可能包含比平时更多的技术术语。</em></p>
+<p>（与Eliezer Yudkowsky在<a target="_blank" rel="noopener" href="https://twitter.com/ESYudkowsky/status/1644760694771048449">推特</a>上发布的帖子相关；此版本经过编辑，并且有更完善的总结。）</p>
+<p>想象你自己在一个盒子里，试图预测互联网上所有文本的下一个单词——尽可能多地为下一个标记分配概率。</p>
+<p>Koan：这项任务的难度是人类的智力，还是写过任何互联网文本的最聪明的人的智力水平？是什么因素使这项任务更容易，还是更难？（如果你没有答案，也许需要一分钟的时间来想一个答案，或者试着预测我接下来会说什么；如果你有答案，花点时间在脑海中回顾一下，或者大声说出你的答案。）</p>
+<hr>
+<p>考虑一下互联网上的某个地方可能有一个三元组列表：＜2个素数的乘积，第一个素数，第二个素数＞。</p>
+<p>GPT显然不会成功地预测显著大小的素数，但它说明了基本点：</p>
+<p>没有法律规定预测器只需要像生成器一样智能，就可以预测生成器的下一个令牌。</p>
+<p>确实，一般来说，你必须再聪明一点，才能预测特定的X，而不是生成现实的X。毕竟GPT是被训练成去做比GANs更难的任务的。</p>
+<p>同理：&lt;Hash，plaintext&gt;，如果不破解哈希算法，您就无法<em>预测</em>的一对。但如果您试图用一个GAN的判别器（假设判别器已学会计算散列函数），则可以非常容易地<em>生成典型实例</em>。</p>
+<hr>
+<p>假设互联网上的一些文字不是人类在随意聊天时聊出来的。而是一篇科学论文的结果部分。是新闻报道，讲述了某一天发生的事情，可能没有人足够聪明，在新闻报道之前预测新闻中发生的下一件事。</p>
+<p>正如Ilya Sutskever所说，要学习预测，就是学习预测文本被掩盖的因果过程。</p>
+<p>互联网上许多被掩盖的东西都有一个<em>复杂的</em>因果过程来产生它。</p>
+<hr>
+<p>有时人类，在谈话过程中，会犯错。</p>
+<p>GPT没有被训练成模仿人为错误。他们是被训练成可以<em>预测</em>人为错误。</p>
+<p>考虑一下犯了一个错误的你和一个足够了解你到可以预测<em>你会犯什么</em>错误的外部头脑之间的不对称性。</p>
+<p>然后，如果你要求那个预测者成为一名演员并扮演你的角色，这位演员会猜出你会犯哪些错误，并扮演这些错误。如果演员猜对了，这并不意味着演员和你一样容易出错。</p>
+<hr>
+<p>考虑到互联网上的很多文本都不是即兴写出来的。是人们在几个小时或几天内精心制作的文本。</p>
+<p>GPT-4被要求用200个连续步骤或它能有的步骤来预测它，就像人类正在进化他们即时想法一样。</p>
+<p>一个人可以在一小时内写一套说唱大战。而GPT损失函数希望GPT足够智能，可以在那个人想的时候就预测它。</p>
+<hr>
+<p>或者也许是最简单的假设：</p>
+<p>想象一下，有人让你编单词，然后你说：“Morvelkainen bloombla ringa mongo.”</p>
+<p>想象有这样水平的一个头脑-明确一点，我不是说GPT还处于这个水平-</p>
+<p>想象，它的水平可以听到你说“morvelkainen blaambla ringa”，也许还可以阅读你的整个社交媒体历史，然后设法分配20%的概率，你的下一个单词是“mongo”。</p>
+<p>这个头脑可以兼作一个扮演你角色的真正优秀的演员的事实，并不意味着他们只和你一样聪明。</p>
+<p>当<em>你</em>试图写很像是人写的的东西时，你可以随便编造，而这就是人类的输出，因为你是人类，你输出的这些。</p>
+<p>GPT-4被要求<em>预测</em>你编造的东西。它无法自己编造任何东西。它被要求对你的想法进行建模——你脑海中的想法，其被掩盖的是你的文本输出——以便尽可能多地为你真正的下一个单词分配概率。</p>
+<hr>
+<p>我猜，知道你的下一个单词是“mongo”并不是一个主要的问题，是强大的心智被锤成一个可以模拟任意人类的东西的形状，然后一些不太聪明的子过程负责调整心智的形状，使其完全成为你，然后它模拟你说“mongo“。在这种程度上，弄清楚<em>到底是谁在说话</em>是一个<em>很难推理的问题</em>，这似乎比你只说“mongo”的部分更难做脑力劳动。</p>
+<p>当你预测如何切割一把燧石手斧时，你主要不是一个表现得像燧石手斧头的加载器，加上一些计算较弱的东西，可以确定一把燧石手斧怎么用。这个问题的最好的解决方法不是“像任何特定的燧石手斧头一样有对人类来说困难的能力，然后很容易地确定像哪把手斧”。</p>
+<hr>
+<p>GPT-4在很多方面仍然不如人类聪明，但GPT正在训练的任务比假装是真正的人类<em>更难</em>，这是赤裸裸的数学事实。</p>
+<p>由于GPT正在接受训练的任务与人类的任务不同，也比人类的任务更难，如果GPT最终以人类的方式思考，以解决问题，那将是令人惊讶的，即使抛开梯度下降与自然选择的所有不同之处不谈。</p>
+<p>GPT不是模仿程序，也不是模拟器，而是预测者。</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="followme">
+  <span>Welcome to my other publishing channels</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="https://space.bilibili.com/346698779?spm_id_from=333.337.0.0">
+          <span class="icon">
+            <i class=""></i>
+          </span>
+
+          <span class="label">Bilibili</span>
+        </a>
+      </div>
+
+      <div class="social-item">
+        <a target="_blank" class="social-link" href="https://music.163.com/#/user/home?id=1436101947">
+          <span class="icon">
+            <i class=""></i>
+          </span>
+
+          <span class="label">NetEase Music</span>
+        </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/Translation/" rel="tag"># Translation</a>
+              <a href="/tags/ChatGPT/" rel="tag"># ChatGPT</a>
+              <a href="/tags/Simulator-Theory/" rel="tag"># Simulator Theory</a>
+              <a href="/tags/AI/" rel="tag"># AI</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/2023/07/09/%E9%AB%98%E4%BA%8C%E6%80%BB%E7%BB%93/" rel="prev" title="高二学期总结 Summary of the Second Year of High School (Chinese.ver)">
+                  <i class="fa fa-chevron-left"></i> 高二学期总结 Summary of the Second Year of High School (Chinese.ver)
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 
+  <span itemprop="copyrightYear">2023</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">Olivezq</span>
+</div>
+  <div class="powered-by">Powered by <a href="https://hexo.io/" rel="noopener" target="_blank">Hexo</a> & <a href="https://theme-next.js.org/muse/" rel="noopener" target="_blank">NexT.Muse</a>
+  </div>
+
+    </div>
+  </footer>
+
+  
+  <script src="https://cdn.jsdelivr.net/npm/animejs@3.2.1/lib/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/schemes/muse.js"></script><script src="/js/next-boot.js"></script>
+
+  
+<script src="https://cdn.jsdelivr.net/npm/hexo-generator-searchdb@1.4.0/dist/search.js" integrity="sha256-vXZMYLEqsROAXkEw93GGIvaB2ab+QW6w3+1ahD9nXXA=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+
+
+  
+
+
+  <script class="next-config" data-name="leancloud_visitors" type="application/json">{"enable":true,"app_id":"RxAxKWRPH31IfSpOtpXSWit0-gzGzoHsz","app_key":"nvMtvK449uKdsYgY123Byvt2","server_url":null,"security":false,"betterPerformance":false}</script>
+  <script src="/js/third-party/statistics/lean-analytics.js"></script>
+
+
+
+</body>
+</html>
