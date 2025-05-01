@@ -1,5 +1,5 @@
 ---
-title: Experience of LSE Green Week: no experience
+title: Experience of LSE Green Week:no experience
 date: 2025-03-21 17:08:31
 tags: [Sustainability,Reflection,Environmental Justice,Social Justice,Language Politics,Education]
 categories: [Environmental Humanities]
