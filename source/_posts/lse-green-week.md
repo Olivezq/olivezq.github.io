@@ -3,7 +3,10 @@ title: Experience of LSE Green Week:no experience
 date: 2025-03-21 17:08:31
 tags: [Sustainability,Reflection,Environmental Justice,Social Justice,Language Politics,Education]
 categories: [Environmental Humanities]
-description: Whether it’s Buddhism, or God, or Nature, or Sustainable Development itself—faith hovers above daily life. And thus the familiar blessing remains: “Blessed are those who have not seen and yet have believed.”
+description: >
+  Whether it’s Buddhism, or God, or Nature, or Sustainable Development itself—faith hovers above daily life.
+  And thus the familiar blessing remains: “Blessed are those who have not seen and yet have believed.”
+  
 cover: /images/lsegreenweek.jpg
 ---
 Maybe I went at times when few people visited, or maybe it was just like that. I went three times, and each time, the exhibition in MAR felt deserted. But in fact, I really liked the concept: using artistic expression to alleviate stress, blending rational reflection with emotional creativity.
