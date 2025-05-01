@@ -1,0 +1,22 @@
+---
+title: GY121 Final Personal Reflection
+date: 2025-04-04 16:52:38
+tags: [Sustainability,Environmental Justice,Decolonization,Language Politics,Reflection] #sometags
+categories: [Environmental Humanities]
+description: Final personal reflection for GY121 Sustainable Development, from environmental protection to decolonial critique.
+---
+In the introductory personal reflection, I viewed sustainable development mainly as a battleground between ecological economists and neoclassical economists, debating strong versus weak sustainability. I expected to learn about the relationship between nature and society, but I still largely equated sustainable development with environmental protection.
+
+However, my understanding has significantly deepened and broadened. I’ve come to see sustainability as embedded in a web of historical, social, and geopolitical contexts. Even when a problem is presented as purely environmental, it is always entangled with issues of colonialism, inequality, geography, and more. The surface of any "issue" is only the tip of an iceberg shaped by many hidden conditions. It’s like investigating a single case that gradually links to many others until a far-reaching truth reveals itself.
+
+Initially, I was a student focused on environmental protection. Now I’ve realized the importance of also caring for marginalized communities and considering the systems of power. Sustainable development is not only about protecting forests or reducing emissions—it’s about questioning the structures that create and perpetuate harm.
+
+Among all the themes in the course, the discussions on colonialism and decolonization were the most thought-provoking for me. I was particularly interested in that “decolonization is not a metaphor” (Tuck & Yang, 2012). Much like how sustainability has sometimes been co-opted as a rhetorical tool to justify economic expansion or resource exploitation, some anti-colonial discourses, instead of truly confronting colonial power structures, merely offer symbolic linguistic changes that avoid deeper transformation. If anti-colonial efforts focus solely on adjusting terminology to appease dominant narratives, they risk becoming another form of rhetorical control—a polished moral veneer for old power dynamics. They risk becoming a battle of language that never ends, distracting people from the actual violences still embedded in systems.
+
+Colonialism is, therefore in some ways, even more cunning than some court intrigue literature or baroque storytelling. The seemingly trivial academic disputes about language and representation belies a much deeper structural violence. This emotional intensity is not a mythical torment like Prometheus having his liver torn out each day. Rather, it is the sharp, constant pricking of countless needles—each representing a form of power—into the fingertips, causing an unrelenting pain. A pain so fine and persistent that it seeps into the skin and becomes a lingering mist, impossible to dispel, woven into the fabric of daily life, between each sunrise and sunset. One wakes up to a familiar blue sky, the earth unshaken, barely noticing how human connection shifts imperceptibly, day by day.
+
+This kind of slow, quiet violence seeps into language, becomes normalized, and replaces old worlds with new ones under the guise of civility. Western centrists, pacifists, even critics themselves—most of the time remain trapped in the shadow of colonial structures, dissecting it while still bound to its legacy. Perhaps, by the time the wounds no longer bleed but remain moist and open, those wounds will be the only wetlands left on Earth—haunting remnants of an unfinished reckoning as we drift toward the Anthropocene's quiet end.
+
+I was also fascinated by other topics such as urbanization, waste management, for example the concepts around “matter out of place” (Douglas, 1966)—especially how “filth” can operate as metaphor (Moore, 2009). These ideas gave me a new lens to understand the world, and I intend to keep reading and thinking about them.
+
+Perhaps this reflection is a little off-topic—I haven’t focused much on summarizing my general course experience. But what stands out most to me are these vivid moments of intellectual awakening. I’ve learned to see the world from different angles, to ask deeper questions, and to recognize that sustainability is never neutral. It is always political, always contextual, and always about power.

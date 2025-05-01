@@ -2,7 +2,7 @@
 title: Being Awake
 date: 2022-11-27 13:17:49
 tags: [Life Improvements,Practical,Writing,TEDx,Involution,Speech] #some tags
-categories: [Rationality]
+categories: [Productivity]
 description: So my point here is, this, "being awake" is the most overrated thing in culture today.
 ---
 How is your work efficiency when you stay up late? Do you feel ashamed when you want to sleep while others are studying?

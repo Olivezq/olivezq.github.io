@@ -2,8 +2,8 @@
 title: How I Am Productive
 date: 2022-01-25 15:44:24
 tags: [Translation,Practical,Productivity] #sometags
-categories: [Rationality]
-description: 关于How I Am Productive的中文翻译
+categories: [Productivity]
+description: Chinese translation for How I Am Productive
 ---
 我是怎么高产的
 关于How I Am Productive的中文翻译。

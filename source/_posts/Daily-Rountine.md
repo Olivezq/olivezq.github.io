@@ -2,7 +2,7 @@
 title: How Do I Spend My Everyday Life
 date: 2022-10-14 21:44:00
 tags: [Experience,Study Tips,Life Improvements,Productivity,Practical] #sometags
-categories: [Life,Rationality]
+categories: [Productivity]
 description: This is about my daily rountine. Basically just about how I spend my day.
 ---
 
@@ -23,20 +23,16 @@ When I arrive at school it is often early, at almost 7:15 a.m.. At this time, I 
 
 After each class, I will note down on my planner about what did we learn in three lines. This helps me focus on lessons and review, and also remind me of what to review when I go home. Sometimes, when the teacher announce that a test is coming, I will write down the day and what the topic is of the exam with blue pen on the planner beside my review, just to highlight.
 
-During breaks, I go to the toilet or chat with my friends, or I go upstairs to hand in Math homework because at school I am one of the Math representers.
+During breaks, I chat with my friends, or I go upstairs to hand in Math homework because at school I am one of the Math representers.
 
 # 12:00 A.M.
-I go to the school canteen to have my lunch at about 11:55 a.m.. After that, I will hang out with my friends and do past-papers exercises. Or if I have any questions, I will go upstairs to ask my teachers, because we have a long break after lunch.
+I go to the school canteen to have my lunch at about 11:55 a.m.. After that, I will hang out with my friends. Or if I have any questions, I will go upstairs to ask my teachers, because we have a long break after lunch.
 
 # 5:00 P.M.
-We finish our day at school at 5 p.m.. Then my friends and I will go running. Usually we just run for 3 rounds around the playground, about 900 m, and then go home by 5:20 p.m..
+We finish our day at school at 5 p.m..
 
 # 7:00 P.M.
 Going home with my e-book reading, it is usually 6:00 p.m. when I arrive home. Then I send the homework into our class's QQ group since I am the study monitor, and I plan my evening on my planner.
-
-First I review again what I did today, then I figure out what things that I haven't done yet and I will list them as my evening tasks. Next, I will look at my habit tackler, and check whether I have followed daily goals like *"drinking 8 glasses of water"* or *"eat less sugar"*, and then do tasks like *"learning Korean/Spanish"* and *"Pipa Practice"*. After finishing up most of the things on my tackler, I will do the evening tasks.
-
-Then I will receive a call from a friend of mine in another school, and we will chat for a while just to share how our life is going.
 
 I have an alarm on my phone that it will ring at 9:00 p.m., which will remind me it is time to go to bed.
 
@@ -51,8 +47,4 @@ However, on weekends I can sleep whenever I want.
 
 And this is basically my day.
 
-It is still not very productive, but I enjoy this kind of life. Especially when I run with my friends after-school, looking at the sunset, thinking nothing but just focus on running, it is always a pleasure.
-
-However, sometimes when I cannot function, unwilling to do anything, I just think in my own world without following my schedule.
-
-End.
+It is still not very productive, but I enjoy this kind of life. However, sometimes when I cannot function, unwilling to do anything, I just think in my own world without following my schedule.

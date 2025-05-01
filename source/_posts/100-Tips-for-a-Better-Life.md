@@ -1,9 +1,9 @@
 ---
 title: 100 Tips for a Better Life
 date: 2022-01-22 13:52:18
-tags: [Life improvements,Practical,Translation] #sometags
-categories: [Rationality]
-description: 关于100 Tips for a Better Life的中文翻译
+tags: [Life improvements,Practical,Productivity,Translation] #sometags
+categories: [Productivity]
+description: Chinese translation for 100 Tips for a Better Life.
 ---
 100个生活建议
 关于100 Tips for a Better Life的中文翻译。

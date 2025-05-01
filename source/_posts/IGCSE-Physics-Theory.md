@@ -1,9 +1,9 @@
 ---
-title: IGCSE Physics Theory（中文版)
+title: IGCSE Physics Theory
 date: 2021-12-25 14:53:31
 tags: [Physics] #sometags
-categories: [IGCSE]
-description: a Chinese version of IGCSE Physics (still in progress)
+categories: [Productivity]
+description: a Chinese version of IGCSE Physics (unfinished)
 ---
 # 一些备用知识点
 

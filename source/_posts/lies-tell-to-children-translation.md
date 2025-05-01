@@ -2,8 +2,8 @@
 title: Lies Told To Children
 date: 2022-04-27 20:31:26
 tags: [dath ilan,Fiction,Translation] #sometags
-categories: [Rationality]
-description: 关于Lies Told To Children的中文翻译
+categories: [Ethnics and Society]
+description: Chinese Translation for Lies Told To Children
 ---
 告诉孩子们的谎言
 关于《Lies Told To Children》的中文翻译。

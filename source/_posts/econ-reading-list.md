@@ -2,14 +2,14 @@
 title: My Economics Reading List and Thoughts
 date: 2023-02-26 15:53:26
 tags: [Economics,Reading,Reading List,Review] #sometags
-categories: [Life]
-description: So for the last few weeks, I've been reading Economics books. Some of them really inspired me a lot.
+categories: [Economics]
+description: So for the last few weeks, I've been reading Economics books.
 ---
-So for the last few weeks, I've been reading Economics books. Some of them really inspired me a lot. And here's a joke:
+So for the last few weeks, I've been reading Economics books. Some of them really inspired me a lot.
 I was writing my reading list to hand it in to my counselor. And I said:
 > The books were really inspiring, I read books like: *Nacroeconomics: How to Run A Drug Cartel*, and *Undercover Economists*, *Freakonomics: A Rogue Economist Explores* which mentioned how criminal rate increases as the government abandoned abortion and how people sell drugs successfully, and *Bad Blood* which talked about how you lie to the whole Silicon Valley without being caught for almost a decade.
 
-I guess the reading list does look quite weird. But that's what makes Economics interesting. Actually, I do treat Economics as something like any sniper would treat a gun. I personally call Economics "Sniping", and this name really motivated me to keep on reading Economics (because I've been really keen on becoming a sniper in the future). But that is another story, and today I'm just going to share my feelings and thoughts about what I've read.
+I guess the reading list does look quite weird. But that's what makes Economics interesting.
 
 ## Freakonomics: A Rogue Economist Explores
 I read this book in three days, and it was really a great book and was shorter than I thought. It was not like talking about Economics directly, but more like showing how an economist get involved in something that looks rather like Sociology or Criminology.
@@ -51,36 +51,23 @@ Here are some sentences in this book.
 > ...
 > Recall for a moment the two boys, one white and one black, who were described in chapter 5. The white boy who grew up outside Chicago had smart, solid, encouraging, loving parents who stressed education and family. The boy from Daytona Beach was abandoned by his mother, was beaten by his father, and had become a full-fledged gangster by his teens. So what became of the two boys? The second child, now twenty-eight years old, is Roland G. Fryer Jr., the Harvard economist studying black underachievement. The while child also made it to Harvard. But soon after, things went badly for him. His name is Ted Kaczynski.
 
-This book reminded me of a fiction I've been reading since secondary school: *Harry Potter and the Methods of Rationality*(hereinafter refer to as *HPMOR*). It talked about if Harry Potter was a scientist what will he do in the magic world. And he also mentioned many facts and theories that were interesting. For example, this is a short-cut from HPMOR.
-> "I have a feeling," Harry said finally, "that we're coming at this from the wrong angle. There's a tale I once heard about some students who came into a physics class, and the teacher showed them a large metal plate near a fire. She ordered them to feel the metal plate, and they felt that the metal nearer the fire was cooler and the metal further away was warmer. And she said, write down your guess for why this happens. So some students wrote down 'because of how the metal conducts heat', and some students wrote down 'because of how the air moves', and on one said 'this just seems impossible', and the real answer was that before the students came into the room, the teacher turned the plate around."
-
-*Freakonomics* is for now my favorite economics book.
-
 ## New Ideas From Dead Economists
 This is a great book which started from the lives of dead Economists, and analyzed their theories, and concluded the author's new ideas from them. 
 My favorite parts were the paragraphs where economists in the past had fights together, and there was this ping-pong kind of thing going on with their theories, like Keynes came up with solution A while Milton stated "However" and gave a solution B, and they were like having fights on their newspapers, and a new theory started to form.
 It is also the book that let me found that I am interested in Economic History. Reading these economists lives is a great enjoyment to me, and those economists also had their own way of treating their lives like they were real lively persons, maybe one is ambitious and one is narrow-minded. And it also mentioned the world's history background when they were living. For example:
 > such as the tale of the Japanese, French, and American corporate executives, each sentenced to death. The executioner offers a final request. The Frenchman asks:"I'd like a bottle of cabernet sauvignon and a feast featuring escargot, pheasant, and crème brulée." The Japanese responds:"I'd like to give a lecture on the merits of Japanese corporate management." Finally, the American gives his last request: "Would you please kill me before the lecture on Japanese management?"
 
- Such tales are really interesting to know.
- 
 ## Money Mischief: Episodes in Monetary History
 > Motives and intentions matter far less than the outcome. And, it this as in so many other cases, the outcome was very different from that intended by the well-meaning advocates of the Coinage Act of 1873.
 
-I read this book before I read *New Ideas From Dead Economists*, so I didn't know the author Milton when I was reading, and what I read was a total mess. After I read *New Ideas From Dead Economists*, I finally started to understand what Milton tried to say in *Money Mischief*. The part that gave me great impression was still about economic history, that is the Coinage Act of 1873. It talked about how people play with silver to increase their money and the exchange rates. I can learn a lot from these brilliant event.
-Man, watching others controlling money makes me thrill.
+I read this book before I read *New Ideas From Dead Economists*, so I didn't know the author Milton when I was reading, and what I read was a total mess. After I read *New Ideas From Dead Economists*, I finally started to understand what Milton tried to say in *Money Mischief*. The part that gave me great impression was still about economic history, that is the Coinage Act of 1873. It talked about how people play with silver to increase their money and the exchange rates.
 
-## Basic Economics:A Citizen's Guide to the Economy(Revised and Expanded Version)
+## Basic Economics:A Citizen's Guide to the Economy (Revised and Expanded Version)
 So, I don't quite like this book... because it was indeed talking about *basic economics*, but they were too basic for me. Like I was reading my textbook instead of extra reading.
 
 ## The Undercover Economist
 This book was my first book I read that is related with Economics. So I found it hard to read at first, and I think that is because I read it in Chinese, the Chinese translation was a bit weird. The other books were read in English. 
-My biggest feeling toward *The Undercover Economist* was like: Uh-huh, and? It's like talking about the hidden economics theories behind our lives, like the money you pay for coffee, how did they come from, sorts of. However, I think they were still too basic for me... I mean, everyone knows that your coffee comes from plants called coco, that is land, and there is labour, who will bring your coco to shops, and shops are capital, and people wrap your coffee, that is labour again, and who control the whole production line, enterprise. So what's the point?
+It's like talking about the hidden economics theories behind our lives, like the money you pay for coffee, how did they come from, sorts of. However, I think they were still too basic for me... I mean, everyone knows that your coffee comes from plants called coco, that is land, and there is labour, who will bring your coco to shops, and shops are capital, and people wrap your coffee, that is labour again, and who control the whole production line, enterprise. So what's the point?
 
-## Game Theory:Analysis of Conflict
+## Game Theory: Analysis of Conflict
 I'm still reading this book but I think I'm almost done because the latter parts were like Statistics involving many weird symbols that I haven't learnt.
-The book also reminded me of HPMOR, and the whole game theory thing sounds really interesting, like they imagine both players are intelligent and rational, just like there were two main characters intelligent and rational in HPMOR. It also mentioned Bayesian theorem, which was actually what the author of HPMOR emphasized on in his book often. So when I read this book, I literally like was reading another HPMOR and it felt really comfortable. 
-
-
-I think I will just stop here and start talking about another experiment I want to do which is really fascinating you guys won't believe that. I'm still reading economics books, and if I have any other thoughts I will update it in another blog.
-That's all thank you.

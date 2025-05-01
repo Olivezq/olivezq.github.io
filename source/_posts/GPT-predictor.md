@@ -2,8 +2,8 @@
 title: GPTs are Predictors, not Imitators
 date: 2023-07-14 17:59:27
 tags: [Translation,ChatGPT,Simulator Theory,AI] #sometags
-categories: [Rationality]
-description: 关于GPTs are Predictors, not Imitators的中文翻译。
+categories: [Ethnics and Society]
+description: Chinese translation for GPTs are Predictors, not Imitators.
 ---
 GPT是预测者，而非模拟者
 关于《GPTs are Predictors, not Imitators》的中文翻译。
