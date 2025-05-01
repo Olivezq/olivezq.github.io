@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://olivezq.github.io/2025/03/21/lse-green-week/</loc>
-    
-    <lastmod>2025-05-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://olivezq.github.io/2025/04/04/gy121-personal-reflection/</loc>
     
     <lastmod>2025-05-01</lastmod>
@@ -191,34 +182,6 @@
 
   
   <url>
-    <loc>https://olivezq.github.io/tags/Life-improvements/</loc>
-    <lastmod>2025-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Practical/</loc>
-    <lastmod>2025-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Productivity/</loc>
-    <lastmod>2025-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Translation/</loc>
-    <lastmod>2025-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://olivezq.github.io/tags/Experience/</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -275,21 +238,35 @@
   </url>
   
   <url>
+    <loc>https://olivezq.github.io/tags/Life-improvements/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/Practical/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/Productivity/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/Translation/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://olivezq.github.io/tags/IELTS/</loc>
-    <lastmod>2025-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Euclid/</loc>
-    <lastmod>2025-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Life-Improvements/</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -304,6 +281,13 @@
   
   <url>
     <loc>https://olivezq.github.io/tags/Writing/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/Euclid/</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -360,6 +344,13 @@
   
   <url>
     <loc>https://olivezq.github.io/tags/Physics/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://olivezq.github.io/tags/Life-Improvements/</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -470,31 +461,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://olivezq.github.io/tags/Social-Justice/</loc>
-    <lastmod>2025-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://olivezq.github.io/tags/Education/</loc>
-    <lastmod>2025-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://olivezq.github.io/categories/Productivity/</loc>
+    <loc>https://olivezq.github.io/categories/Memoir/</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://olivezq.github.io/categories/Memoir/</loc>
+    <loc>https://olivezq.github.io/categories/Productivity/</loc>
     <lastmod>2025-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
