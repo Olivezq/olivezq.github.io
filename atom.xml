@@ -6,7 +6,7 @@
   <link href="https://olivezq.github.io/atom.xml" rel="self"/>
   
   <link href="https://olivezq.github.io/"/>
-  <updated>2026-10-27T16:18:38.000Z</updated>
+  <updated>2026-11-13T10:08:11.294Z</updated>
   <id>https://olivezq.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Can an Algorithm Ever Be Decolonial?</title>
+    <link href="https://olivezq.github.io/2026/11/13/The-Countries%20copy/"/>
+    <id>https://olivezq.github.io/2026/11/13/The-Countries%20copy/</id>
+    <published>2026-11-13T09:10:31.000Z</published>
+    <updated>2026-11-13T10:08:11.294Z</updated>
+    
+    <content type="html"><![CDATA[<p>In my first year at LSE I attended a public lecture by Austin Zeiderman on <em>Artery</em>, his book about Colombia’s Magdalena River, and someone in the audience asked whether infrastructure could ever be decolonial. Zeiderman answered that his work was analytic and did not set out to prescribe what should be done, and in a <a href="https://olivezq.github.io/2025/05/14/rivers-and-power/">post</a> I wrote afterwards I argued that this was a retreat. A year and a half later I find myself facing the same question about a different kind of infrastructure. Police forces and courts now use algorithms to predict crime and to assess who is likely to reoffend, and people usually assume a model without ‘race’ as a category cannot discriminate by race. I want to ask whether such a model could ever be decolonial.</p><p>The evidence so far suggests that race-blind models fail. When Lum and Isaac ran a simulation of the PredPol algorithm on Oakland’s drug arrest records in 2016, it would have sent police to Black neighbourhoods at roughly twice the rate of white ones, although survey estimates suggested that drug use was spread fairly evenly across the city, because the model learned from records of where police had chosen to patrol. In the COMPAS case, ProPublica found that among defendants in Broward County who did not reoffend, 44.9 percent of Black defendants had been labelled higher risk against 23.5 percent of white defendants, and later work by Chouldechova and by Kleinberg, Mullainathan and Raghavan proved that when groups differ in their rates of rearrest no score can be fair in every sense at once, so some group must carry more of the errors. These findings are usually seen as engineering problems, and people tend to hope for a better model trained on cleaner data and built with fairer constraints.</p><p>I do not think the better model would help, and the reason is fairly obvious. Even a model free of these problems would still sort people into those it marks as risky, and the people it marks would come to be treated the way racialised groups have been treated. The Metropolitan Police’s Gangs Violence Matrix, for instance: Amnesty found in 2018 that around a third of those listed had never been convicted of a serious offence, while the listing still followed them into decisions about housing and immigration. Thus, the more important question is why a society keeps producing such groups whatever tools it uses.</p><p>Gilmore defines racism as the production of group-differentiated vulnerability to premature death. I read the definition as saying that the decision comes before the group. A society that distributes exposure to harm unequally, through policing, housing, healthcare and work, needs a way of making that distribution look natural, and racialisation is the means by which it does so. A London officer quoted in one of our GY315 lectures, who said that stopping cars full of young Black men was simply a matter of fact and had nothing to do with racism, shows how this works at the level of a single judgement, because the unequal treatment is presented as a description of the world. A risk score does the same thing, because it has no author who can be challenged and it arrives in the form of “rational”/“neutral” arithmetic. The algorithm thus sits downstream of the problem, the unequal distribution of exposure exists first and the algorithm is just one more instrument for carrying it out.</p><p>As long as a society allocates who may be exposed to harm, some form of racialisation will do the work of making that allocation acceptable. An algorithm therefore cannot be decolonial, because decoloniality belongs to the social arrangement that the algorithm serves, and no adjustment to its inputs changes that arrangement.</p><p>Pessimism of this kind is risky, as it is tempting to conclude that nothing can be done and that the honest scholar should only describe the problem, and that conclusion would turn my argument into another analytic retreat. Bell faced the same difficulty when he argued in 1992 that racism is a permanent feature of American society, and his response was that the struggle against it remains necessary and has value in itself, even if final victory never comes. Gilmore describes abolition as the building of institutions that make people less vulnerable as much as the closing of prisons. On this account the work of decolonisation lies in reducing the allocation of exposure itself through collective provision such as housing and healthcare.</p><p>My answer to the question Zeiderman was asked, applied to algorithms, is therefore no, and I suspect that no infrastructure can be decolonial on its own. However, saying no is different from saying that nothing can be done. The effort now spent on building fairer machines would do more good if it went into reducing the need to sort people in the first place.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;In my first year at LSE I attended a public lecture by Austin Zeiderman on &lt;em&gt;Artery&lt;/em&gt;, his book about Colombia’s Magdalena River, an</summary>
+      
+    
+    
+    
+    <category term="Academic Reflection" scheme="https://olivezq.github.io/categories/Academic-Reflection/"/>
+    
+    
+    <category term="AI" scheme="https://olivezq.github.io/tags/AI/"/>
+    
+    <category term="Human Geography" scheme="https://olivezq.github.io/tags/Human-Geography/"/>
+    
+    <category term="STS" scheme="https://olivezq.github.io/tags/STS/"/>
+    
+    <category term="Decolonization" scheme="https://olivezq.github.io/tags/Decolonization/"/>
+    
+    <category term="Social Justice" scheme="https://olivezq.github.io/tags/Social-Justice/"/>
+    
+  </entry>
   
   <entry>
     <title>The Wage of the Gaze</title>
@@ -51,7 +83,7 @@
     <link href="https://olivezq.github.io/2026/10/18/The-Countries/"/>
     <id>https://olivezq.github.io/2026/10/18/The-Countries/</id>
     <published>2026-10-18T08:10:31.000Z</published>
-    <updated>2026-11-06T12:22:11.847Z</updated>
+    <updated>2026-11-13T09:12:17.213Z</updated>
     
     <content type="html"><![CDATA[<p><em>A/N: What follows is a memoir, not an academic reflection.</em></p><p>I was born into a world whose ideas contradicted one another, and mine have turned over so many times since that I can no longer reach back to the child who held them. </p><p>In those years I still wrote 娘炮, sissy, about my friends in my diary. The cartoons I caught by chance, 喜羊羊与灰太狼 before it was revised, still handed down their small sermons, that a boy ought not to be petty, that a boy in tears cried like a girl. I can name now what runs wrong through all of it, though the child had no words for any of it, and the ideas ran through my days as plain fact, with nothing in them I ever thought to question.</p><p>Teachers told us the boys did better at science, and I believed them. When the punishments fell only on the boys, I grew more certain that boys were simply tougher, and we watched, cold and incurious, while desk and workbook collided with flesh, the boys by then a different order of creature, stilled and inert, nearer to a dead thing than to us.</p><p>A classmate said the Frog Princess disgusted her most, the darkest of them and so the ugliest. I was confused for the first time, since we had not yet come across anything like the idea of race. Primary school was an island where everyone was Asian, so we were only ever “people”, only ever “boys and girls”. I still remember what I thought, that people could like or dislike a face for its skin, and that the Frog Princess was to be pitied. Pressed to name the princess I hated back, I grabbed in a panic at Snow White and said it was for stealing the dwarves’ food, a reason that struck even me as thin, because that is really the story of Goldilocks and the three bears. The adults around me kept praising my skin for the palest in the room, though the praise bought me no pride, since I understood by then that it too came down to privilege, that what I was born into had never been mine to claim.</p><p>Through primary and middle school the boys and the girls both took me in, and I leaned toward the boys. In the 2010s a boy still stood above a girl, always appearing as the neutral default, while a girl was marked out as female. 女子如何不如男, the slogan went, a woman is in no way lesser than a man, and so the contempt never reached its worst, however a boy was still assumed to sit above a girl, and a girl was only encouraged to become “as good as a boy”, which was exactly how I was encouraged. I did not want to be a 假小子, a fake boy, and I did not want to be a 小女生 either, a word I had hated since I was small. Boys are always more interesting than girls, I used to think, and it took me years to turn the thought over and wonder whether the boys had only seemed more interesting because the world a girl was let into was so much smaller, and longer still to doubt the thought itself, and the tidy pair of words, man and woman, that it rested on.</p><p>My family counted as another of these privileges, since it narrowed the gap between my world and the boys’. Sexism and racism marked the house plainly enough, though by the measure of my primary school it ran almost as a model of openness, and my mother, who carried her own preference for boys, still pushed me out to play with the boys. She stood apart from the other mothers, further into idealism.</p><p>Coraline was the first film she ever set in front of me. She always told me it was my favourite, when the truth is she ran it over and over before I had grown enough to follow the pictures, a dozen times at the least, until its overcast idea of beauty moved into me ahead of any understanding, so that by the time I could follow the story the film had already settled in as the ground under my feet, and it comes nearer the truth to say Coraline laid claim to me than that I ever chose it. The scenes where the other mother turns I could not bring myself to watch for years. My mother loved, besides, a cartoon of talking fruit, one stretch of which lopped the head clean off a piece of fruit, and where it frightened me into shaking she only laughed and wound the tape back to run it again. Somewhere across those years the fogged bus window began to show me my own figure walking into a forest, the flat turning into a black castle that thorns stood guard over, the parrots out of my animal encyclopaedia lifting off the page to wheel through the rooms.</p><p>The cartoons reached me in English, without subtitles, and by that route she raised a bilingual world around me. Peppa Pig, Charlie and Lola, Gravity Falls. My school days ran in the city while my afternoons ran in an electronic country where I was as if in the West, so that when the girls traded talk of 叶罗丽 I had nothing to offer them. Years later, the first time I arrived in England, I felt at home at once, because I had in fact returned to the world of the cartoons. The world I had once been alone inside now lay in front of me, full of lively people, almost exactly as the cartoons had been. Only then did I see that Peppa Pig had grown out of the real world, that people really did take their children to pick berries on weekends, and really did drag an inflatable into the pool in summer to play in. I grew up inside two worlds split apart from one another.</p><p>A relative, once, turned my face up to the light and said, she is a girl after all, what a pity, her skin runs too dark, and then let a look of pity settle over her features.</p><p>Middle school brought me two others I fell in with, A and B. What drew the three of us together was nothing we could have named at the time, only that our sense of things lined up, and that in one another’s company a person could simply stay a person, with no boy or girl to answer to. To each other we were the ordinary ones, which is the quiet joke of it, since the world beyond our three kept its other names. It pinned 娘炮 and 人妖, sissy and freak, on A and B for the softness of their faces and shut them out of the boys, and it called me a boy outright, the girls telling me they wished I had been born one. Beside A and B I stopped having to place myself at all. Nothing in it handed me a position on gender, though it let me set down the need to hold one, and I used to wonder without ever once settling it, why the finding of them had fallen to me of all people, and whether the answer ran any deeper than a mother who had raised me, from the start, to keep an open mind.</p><p>In high school most of the girls were chasing idols, which left us with nothing to talk about, and I could not live inside a crowd that spent its days kissing and shrieking, while the boys ran to the open-contempt kind and I had no wish to talk to them. High school set my social skills back, since I spent most of my time reading novels and writing. The strangeness of the place came clear to me as my hallucinations shed their bright fantasy and let blood and insects and a slow horror seep in. I sank further into my own stories, where they had somewhere to go.</p><p>When I went to university, what I mostly felt was that I could relax. The difference between men and women had not disappeared, and people still lived in a world where being a woman was its own splendid thing and being a man was its own splendid thing, so the line between them remained, however the old constraints were gone, and every trait once sorted by sex was now admired instead, a woman is wonderful however she is, a man is wonderful however he is. It was also then that I first came across LGBTQ.</p><p>Only slowly did it come to me that the three of us in middle school had been, as it turned out, gay and bisexual and queer, though the labels arrived long after the friendship and explained none of it. Queer is more than I can lay over myself, and still I do not land as only male or only female. I count myself a woman, though that goes back to the sex I was born into, and some days I wonder whether what I am is a trans gay. Writing this, I find I cannot offer a clean conclusion, and that is about as far as my reading of myself goes to this day.</p>]]></content>
     
@@ -102,9 +134,9 @@
     
     <category term="Environmental Humanities" scheme="https://olivezq.github.io/tags/Environmental-Humanities/"/>
     
-    <category term="Climate Justice" scheme="https://olivezq.github.io/tags/Climate-Justice/"/>
-    
     <category term="Posthumanism" scheme="https://olivezq.github.io/tags/Posthumanism/"/>
+    
+    <category term="Climate Justice" scheme="https://olivezq.github.io/tags/Climate-Justice/"/>
     
     <category term="STS" scheme="https://olivezq.github.io/tags/STS/"/>
     
@@ -193,9 +225,9 @@
     
     <category term="Academic Essaysim" scheme="https://olivezq.github.io/tags/Academic-Essaysim/"/>
     
-    <category term="Social Justice" scheme="https://olivezq.github.io/tags/Social-Justice/"/>
-    
     <category term="Editorial" scheme="https://olivezq.github.io/tags/Editorial/"/>
+    
+    <category term="Social Justice" scheme="https://olivezq.github.io/tags/Social-Justice/"/>
     
     <category term="Prefigurative Writing" scheme="https://olivezq.github.io/tags/Prefigurative-Writing/"/>
     
@@ -346,17 +378,17 @@
     
     <category term="Environmental Humanities" scheme="https://olivezq.github.io/tags/Environmental-Humanities/"/>
     
-    <category term="Anthropocene" scheme="https://olivezq.github.io/tags/Anthropocene/"/>
+    <category term="Symbolism" scheme="https://olivezq.github.io/tags/Symbolism/"/>
+    
+    <category term="Posthumanism" scheme="https://olivezq.github.io/tags/Posthumanism/"/>
     
     <category term="Waste" scheme="https://olivezq.github.io/tags/Waste/"/>
+    
+    <category term="Anthropocene" scheme="https://olivezq.github.io/tags/Anthropocene/"/>
     
     <category term="Eco-criticism" scheme="https://olivezq.github.io/tags/Eco-criticism/"/>
     
     <category term="Climate Justice" scheme="https://olivezq.github.io/tags/Climate-Justice/"/>
-    
-    <category term="Posthumanism" scheme="https://olivezq.github.io/tags/Posthumanism/"/>
-    
-    <category term="Symbolism" scheme="https://olivezq.github.io/tags/Symbolism/"/>
     
     <category term="Satire" scheme="https://olivezq.github.io/tags/Satire/"/>
     
@@ -516,9 +548,9 @@
     <category term="Academic Reflection" scheme="https://olivezq.github.io/categories/Academic-Reflection/"/>
     
     
-    <category term="Posthumanism" scheme="https://olivezq.github.io/tags/Posthumanism/"/>
-    
     <category term="Existentialism" scheme="https://olivezq.github.io/tags/Existentialism/"/>
+    
+    <category term="Posthumanism" scheme="https://olivezq.github.io/tags/Posthumanism/"/>
     
     <category term="Kinship" scheme="https://olivezq.github.io/tags/Kinship/"/>
     
@@ -549,13 +581,13 @@
     <category term="Creative Writing" scheme="https://olivezq.github.io/categories/Creative-Writing/"/>
     
     
-    <category term="Waste" scheme="https://olivezq.github.io/tags/Waste/"/>
+    <category term="Existentialism" scheme="https://olivezq.github.io/tags/Existentialism/"/>
     
     <category term="Posthumanism" scheme="https://olivezq.github.io/tags/Posthumanism/"/>
     
-    <category term="Eco-writing" scheme="https://olivezq.github.io/tags/Eco-writing/"/>
+    <category term="Waste" scheme="https://olivezq.github.io/tags/Waste/"/>
     
-    <category term="Existentialism" scheme="https://olivezq.github.io/tags/Existentialism/"/>
+    <category term="Eco-writing" scheme="https://olivezq.github.io/tags/Eco-writing/"/>
     
     <category term="Surrealism" scheme="https://olivezq.github.io/tags/Surrealism/"/>
     
@@ -611,41 +643,11 @@
     
     <category term="Political Economy" scheme="https://olivezq.github.io/tags/Political-Economy/"/>
     
-    <category term="Environmental Economics" scheme="https://olivezq.github.io/tags/Environmental-Economics/"/>
-    
     <category term="Sustainability" scheme="https://olivezq.github.io/tags/Sustainability/"/>
     
+    <category term="Environmental Economics" scheme="https://olivezq.github.io/tags/Environmental-Economics/"/>
+    
     <category term="Economics" scheme="https://olivezq.github.io/tags/Economics/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>What Does It Mean to Be ‘Middle Class’?</title>
-    <link href="https://olivezq.github.io/2026/02/03/Middle-Class/"/>
-    <id>https://olivezq.github.io/2026/02/03/Middle-Class/</id>
-    <published>2026-02-03T09:10:31.000Z</published>
-    <updated>2026-02-05T16:13:13.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>The reflections here emerged from a recent lunchtime discussion with Prof. Mercer on middle-class formation in African cities, where I had the opportunity to raise questions about how we understand class across different cultural contexts.</p><p>The term “middle class” is ubiquitous in development discourse. It appears in policy briefs and newspaper headlines celebrating the rise of new consumer markets in Asia and Africa. However this seemingly straightforward category conceals an epistemological problem. What happens when the people we label as “middle class” do not recognise themselves in that term? And what does it mean for our analytical frameworks when this category is actively <em>unspoken</em>?</p><p>During a discussion on Tanzania, I learned that people do not use the term “middle class” in everyday conversation. There is no commonly deployed Swahili equivalent, one can translate it, of course, but the phrase does not circulate in the way it might in Ghana, India, or the United Kingdom. This absence is deeply rooted in Tanzania’s socialist history, specifically the <em>ujamaa</em> period under Julius Nyerere, during which the middle classes were ideologically positioned as enemies of the nation, parasites living off the labour of rural farmers, who were celebrated as the authentic owners of the Tanzanian state. Even today, unlike some African nations that proudly tout the size of their emerging middle class as evidence of developmental success, the Tanzanian state remains largely silent on the matter. The middle class exists but it exists without a name.</p><p>This raises a methodological challenge that I find compelling. If the people we study do not call themselves middle class, on what grounds do we, as researchers, impose that label? The response I encountered was twofold. First, one does not need to consciously name oneself as a class to <em>be</em> a class. Class can be performed through material practices, through the act of building a particular kind of house on the urban periphery, for instance, which signals a specific social position regardless of whether its owner articulates it in those terms. Second, the absence of class discourse is itself historically and politically significant. The silence is a product of specific ideological formations that made certain ways of speaking about society possible while foreclosing others. In this sense, the question is rather “what are the historical conditions under which class becomes speakable or unspeakable?”</p><p>This insight connects to broader debates in feminist and postcolonial scholarship about the politics of knowledge production. Just as feminist scholars like Donna Haraway have argued that all knowledge is situated and partial, so too must we recognise that analytical categories like “middle class” carry their own genealogies and assumptions. When we apply such categories to contexts where they do not emerge organically from local discourse, we risk imposing frameworks that obscure as much as they reveal. Yet abandoning the category entirely would mean losing a powerful tool for understanding how social stratification operates and reproduces itself. The challenge, then, is to hold both truths simultaneously, to remain attentive to the ways “class” travels and sometimes fails to translate.</p><p>What I found worth exploring is about the observation that most studies of middle-class formation capture a particular historical moment but rarely return to examine how things have changed. Leela Fernandes’s <em>India’s New Middle Class</em> (2006), for example, was published at a specific conjuncture, when India was embracing economic liberalisation and opening its markets to global capital. The book documented the emergence of a new consuming middle class at that precise moment. However nearly two decades later, no systematic restudy has traced how India’s middle class has evolved, how its interests have intersected with the rise of Hindutva nationalism, or how its composition has shifted with India’s changing role in the global economy. This is a potential direction for research about the temporal dimension of class formation.</p><p>There was also a fascinating observation about the instability of class markers. The material practices that once signalled middle-class status are constantly “trickling down” as consumer goods become more widely accessible. Take weddings as an example. Over the past three decades, wedding practices in Tanzania have transformed, tiered cakes, decorated halls, sparkly lights, and globalised music have become aspirational markers that can be partially replicated regardless of income level. One does not need the complete package; one can have <em>something</em> that gestures toward it, drawing ideas from Instagram and TikTok. The same applies to building materials, architectural flourishes, and household goods. Yet, crucially, having a fancy wedding cake does not make one middle class. The markers of distinction keep shifting, because they keep being appropriated. This creates an endless race for differentiation, a phenomenon that Pierre Bourdieu would recognise as the constant repositioning of social actors within a field of cultural capital.</p><p>Income-based approaches, while valuable for tracking changes over time, struggle to capture the relational and performative dimensions of class. In contexts where people have multiple income streams, such as a small grocery business or agricultural investments in rural areas, asking for a “monthly income” produces data that may be technically accurate but socially meaningless. Housing, by contrast, offers a material trace of class position that is literally visible and socially legible. The house speaks even when its owner does not. It also signals accumulation and social location in ways that income figures cannot.</p><p>This methodological point connects to a broader argument about how we might approach the study of class in the Global South. Rather than beginning with a predetermined category and searching for its local instantiation, we might instead begin with material practices. Moreover, the most productive research often comes not from confirming what we already suspect but from being genuinely surprised by what we find.</p><p>For those interested in pursuing research in this area, several directions seem promising. One approach would be to conduct a “restudy”, to return to a site where middle-class formation was documented fifteen or twenty years ago and ask what has changed. How do the dynamics of class-making at one historical conjuncture differ from those at another? What continuities persist beneath apparent transformations? Another direction would examine the politics of class discourse itself: why do some contexts produce active public discussion about the middle class while others suppress it? What are the political conditions under which class becomes visible or invisible as a category of public speech? A third possibility would trace the “trickle-down” of class markers over time, examining how specific material practices move through social strata and what new forms of distinction emerge to replace those that have been democratised.</p><p>This lunchtime reminded me that the categories we use to understand the social world are themselves products of that world. In Tanzania, the middle class builds houses, accumulates property, and reproduces itself through specific spatial practices, all without ever naming itself as such. Understanding why this is the case, and what it means for how we study class more broadly, would be questions worth pursuing.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;The reflections here emerged from a recent lunchtime discussion with Prof. Mercer on middle-class formation in African cities, where I ha</summary>
-      
-    
-    
-    
-    <category term="Academic Reflection" scheme="https://olivezq.github.io/categories/Academic-Reflection/"/>
-    
-    
-    <category term="Political Economy" scheme="https://olivezq.github.io/tags/Political-Economy/"/>
-    
-    <category term="Human Geography" scheme="https://olivezq.github.io/tags/Human-Geography/"/>
-    
-    <category term="Decolonization" scheme="https://olivezq.github.io/tags/Decolonization/"/>
-    
-    <category term="Class" scheme="https://olivezq.github.io/tags/Class/"/>
     
   </entry>
   
